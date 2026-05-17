@@ -79,4 +79,7 @@ wandb.agent(sweep_id, function=train_wandb, count=50)
 
 ## WandB Report
 
-[Experiment Report](https://api.wandb.ai/links/vaishalinir-ymc2022-chennai-institute-of-technology/2v3wlu7d)
+View all 57 experiments, hyperparameter sweep results,
+parallel coordinates analysis and loss comparison here:
+
+[Experiment Report](https://api.wandb.ai/links/vaishalinir-ymc2022-chennai-institute-of-technology/uvl153uy)
